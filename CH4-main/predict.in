@@ -1,0 +1,23 @@
+TYPES
+2
+C
+H
+
+NETWORKS
+  C  H.10tw-10tw.ann
+  H  O.10tw-10tw.ann
+
+FORCES
+
+FILES
+10
+CH4-main/structf_0188.xsf
+CH4-main/structf_0429.xsf
+CH4-main/structf_0465.xsf
+CH4-main/structf_1146.xsf
+CH4-main/structf_0294.xsf
+CH4-main/structf_1152.xsf
+CH4-main/structf_0917.xsf
+CH4-main/structf_0111.xsf
+CH4-main/structf_0738.xsf
+CH4-main/structf_0050.xsf
